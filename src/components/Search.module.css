@@ -1,0 +1,15 @@
+.search {
+  display: block;
+  background-color: grey;
+  
+  text-align: start;
+  padding: 1.5rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+.search input {
+  border-radius: 2rem;
+  font-size: medium;
+  width: 30%;
+  padding: 0.5rem;
+}

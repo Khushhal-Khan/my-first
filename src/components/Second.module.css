@@ -1,0 +1,21 @@
+.result {
+    margin: 1rem auto;
+    width: 90%;
+    max-width: 40rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+}
+
+.result section {
+    list-style: none;
+    padding: 0.5rem;
+}
+.div {
+        border: 1px light black;
+            margin: 0.5rem 0;
+            padding: 0rem;
+}
+.edit {
+    margin-left: 8rem;
+    margin-right: 0.5rem;
+}
